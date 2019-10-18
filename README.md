@@ -1,4 +1,4 @@
-# sudoku-js
-A game of Sudoku as a mobile app
+# Source code of Sudoku game
+A game of Sudoku for mobile and desktop app
 
-The game may be tried at (http://baruchel.insomnia247.nl/sudoku-js/sudoku.html).
+The game may be tried at (<a href="https://classicgameonline.com/sudokus/">https://classicgameonline.com/sudokus/</a>).
